@@ -1,16 +1,30 @@
-## Hi there 👋
+Hey! I'm taoxinyao 👋, a student who's fallen in love with frontend development, and always keep a humble heart to learn and explore.
 
-<!--
-**xiixhaah/xiixhaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on my journey to become a better frontend developer, and I'm super excited about every new thing I learn, every bug I fix, and every small project I finish ✨
 
-Here are some ideas to get you started:
+#### 🛠️ Frontend Tech Stack
+- Core: HTML/CSS, JavaScript (ES6+), TypeScript
+- Frameworks: Vue.js, React, Nuxt.js
+- Tools: Vite, Git, ESLint, Lighthouse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📖 Learning Journey
+1. Building solid frontend fundamentals through systematic learning
+2. Practicing with small projects to polish my coding skills
+3. Exploring open source and learning from the community
+
+#### 💡 Learning Attitude
+- Always open to feedback and new ideas
+- Embrace mistakes as part of growth
+- Focus on consistent progress as a beginner
+
+#### 📫 Connect With Me
+- Email: tao93848@163.com
+- Feel free to check out my projects and share suggestions! ⭐
+
+<!-- GitHub 打卡 streak 组件 -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taoxinyao)](https://git.io/streak-stats)
+
+<!---
+taoxinyao/taoxinyao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
