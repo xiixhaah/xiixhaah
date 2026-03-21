@@ -1,6 +1,6 @@
 Hey! I'm taoxinyao 👋
 
-a student who's fallen in love with frontend development, and always keep a humble heart to learn and explore.
+a student 🎓 who's fallen in love with frontend development, and always keep a humble heart to learn and explore.
 
 I'm on my journey to become a better frontend developer, and I'm super excited about every new thing I learn, every bug I fix, and every small project I finish ✨
 
