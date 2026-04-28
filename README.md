@@ -1,4 +1,4 @@
-Hey! I'm taoxinyao 👋
+Hey! I'm tao 👋
 
 a student🎓 who's fallen in love with frontend development, and always keep a humble heart to learn and explore.
 
