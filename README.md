@@ -1,4 +1,4 @@
-Hey! I'm tao 👋
+Hey! I'm Tao 👋
 
 a student🎓 who's fallen in love with frontend development, and always keep a humble heart to learn and explore.
 
